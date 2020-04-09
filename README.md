@@ -7,21 +7,21 @@ in the graph. in the final, your graph will not have any cycle in it. For exampl
 <p>When run the code, you see this out put</p>
 <div>
   <code>
-  members [2, 3, 4, 1, 0]
+  cycle 1: [2, 3, 4, 1, 0]
 </code>
 </div>
 <div>
 <code>
-  members [9, 8, 7]
+  cycle 2: [9, 8, 7]
 </code>
   </div>
   <div>
 <code>
-  members [5, 10, 9, 8, 7, 2, 3]
+  cycle 3: [5, 10, 9, 8, 7, 2, 3]
 </code>
   </div>
   <div>
 <code>
-  members [6, 5, 10, 9, 8, 7, 2, 3, 4]
+  cycle 4: [6, 5, 10, 9, 8, 7, 2, 3, 4]
 </code>
 </div>

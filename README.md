@@ -10,12 +10,18 @@ in the graph. in the final, your graph will not have any cycle in it. For exampl
   members [2, 3, 4, 1, 0]
 </code>
 </div>
+<div>
 <code>
   members [9, 8, 7]
 </code>
+  </div>
+  <div>
 <code>
   members [5, 10, 9, 8, 7, 2, 3]
 </code>
+  </div>
+  <div>
 <code>
   members [6, 5, 10, 9, 8, 7, 2, 3, 4]
 </code>
+</div>

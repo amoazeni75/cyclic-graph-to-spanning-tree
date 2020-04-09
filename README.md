@@ -6,7 +6,7 @@ in the graph. in the final, your graph will not have any cycle in it. For exampl
 <img src = "https://github.com/amoazeni75/detect_cycles_undirected_graph/blob/master/graph.png" >
 <p>When run the code, you see this out put</p>
 <code>
-  members [2, 3, 4, 1, 0]
+  members [2, 3, 4, 1, 0] </br>
 </code>
 <code>
   members [9, 8, 7]

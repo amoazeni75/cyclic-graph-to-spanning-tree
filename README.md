@@ -5,9 +5,9 @@ The main idea is finding one cycle at the time and destroy it, then repeat this 
 in the graph. in the final, your graph will not have any cycle in it. For example, consider the following undirected graph:</p>
 <img src = "https://github.com/amoazeni75/detect_cycles_undirected_graph/blob/master/graph.png" >
 <p>When run the code, you see this out put</p>
-<code style="display: block;">
+<div><code>
   members [2, 3, 4, 1, 0]
-</code>
+</code></div>
 <code>
   members [9, 8, 7]
 </code>
